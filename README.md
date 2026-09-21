@@ -91,11 +91,11 @@ Built dashboards and conducted analysis during Data Analyst Internship at AI Var
 
 <h2>Education</h2>
 
-**[Bachelor Of Technology]**
+**Bachelor Of Technology**
 
-[St. Johns College Of Engineering & Technology]
+St. Johns College Of Engineering & Technology
 
-[8 CGPA] | [2022] – [2026]
+8 CGPA | 2022 – 2026
 
 <h2>Additional Technical Strengths</h2>
 
