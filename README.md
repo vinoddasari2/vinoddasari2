@@ -59,7 +59,7 @@ Dashboard (Tableau / Power BI)
 
 <h2>Featured Projects</h2>
 
-<h3>[Sales Data Analysis & Dashboard]</h3>
+<h3>Sales Data Analysis & Dashboard</h3>
 
 Analyzed retail sales data to identify trends in revenue and customer behavior.
 
@@ -68,7 +68,7 @@ Analyzed retail sales data to identify trends in revenue and customer behavior.
 - Built an interactive Tableau/Power BI dashboard to visualize key metrics
 - Delivered findings that highlighted actionable business insights
 
-<h3>[Customer Churn EDA]</h3>
+<h3>Customer Churn EDA</h3>
 
 Performed exploratory data analysis on customer data to uncover patterns behind churn.
 
